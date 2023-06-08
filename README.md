@@ -16,14 +16,4 @@
 
 ## master添加的一行文本
 
-- master添加的一行文本!!!!
-- master添加的一行文本!!!
-- master添加的一行文本!!
-- master添加的一行文本!
-
-## master添加的一行文本
-
-- [ x ] master添加的一行文本!!!!
-- [ x ] master添加的一行文本!!!
-- [ x ] master添加的一行文本!!
-- [ x ] master添加的一行文本!
+xxx
